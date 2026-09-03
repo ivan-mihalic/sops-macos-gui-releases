@@ -3,14 +3,14 @@
     <channel>
         <title>SopsGUI</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Thu, 03 Sep 2026 08:48:06 +0200</pubDate>
+            <title>0.6.0</title>
+            <pubDate>Thu, 03 Sep 2026 13:54:49 +0200</pubDate>
             <link>https://github.com/ivan-mihalic/sops-macos-gui-releases</link>
-            <sparkle:version>386</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:version>400</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ivan-mihalic/sops-macos-gui-releases/releases/download/v0.5.0/SopsGUI-0.5.0.zip" length="17697204" type="application/octet-stream" sparkle:edSignature="/rbp3KbRt3m9i2tSaIu5qKzbReXpfnMqoSRzjiZ7CuTxYmIkiBumiI2xL2Qxv923raSG3Nx8jWMxlHiM4JmMBQ=="/>
+            <enclosure url="https://github.com/ivan-mihalic/sops-macos-gui-releases/releases/download/v0.6.0/SopsGUI-0.6.0.zip" length="17733874" type="application/octet-stream" sparkle:edSignature="FpOpHOG0MxBT8CVj/xXK4xO8NgPeVNW3A2dGfWf3NfBGnD4Nizi00VU3PKdNcYjVAfZHl5u+8O5NDWvYEe9+CA=="/>
         </item>
     </channel>
 </rss>
